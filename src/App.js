@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React by Phạm Đình Liêm - 0902.399.709
+          vancovermobi@gmail.com
         </a>
       </header>
     </div>
