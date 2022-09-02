@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React by Phạm Đình Liêm
+          Learn React by Phạm Đình Liêm -0902.399.709
         </a>
       </header>
     </div>
